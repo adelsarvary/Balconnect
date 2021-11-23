@@ -1,8 +1,9 @@
 ![readme_img_milestones.png](https://github.com/adelsarvary/Balconnect/blob/main/images/readme_img_milestones.png)
 
-* ## Milestone 1 [~3 months]: Create a documentation methodology & space to assist the continuous communication about Balconnect's mission and principles to anyone interested.
+## Milestone 1 [~3 months]: 
+Create a documentation methodology & space to assist the continuous communication about Balconnect's mission and principles to anyone interested.
     
-    ### Topics:
+    Topics:
     
     * The '4 pillars of Balconnect' and the importance of people-plant interaction.
     * Catalunya native plant list
@@ -10,7 +11,7 @@
     * Storyline & lessons learned 06/2020-12/2021
     * The science and knowledge base Balconnect is building on.
     
-    ### Tasks:
+    Tasks:
     
     1. Document a presencial and virtual 'People-Plant Interaction' workshop script & material.
         1. Full script in English and Spanish (incl. topic ideas for a 2.0 workshop)
@@ -24,9 +25,10 @@
     7. Tweet / IG the most interesting facts & news from the above topics on a regular (weekly) basis.
 
 
-* ## Milestone 2 [~3 months]: Establish a working group of early adopters - contributors and users    
+## Milestone 2 [~3 months]: 
+Establish a working group of early adopters - contributors and users    
     
-    ### Preparation
+    Preparation:
     
     - Create a roadmap towards the first proof of concept prototype detailing the different options to get involved
     - Work out a community management strategy that includes
@@ -37,7 +39,7 @@
         - status update [internal newsletter] templates
     - Define collaboration with experts (e.g. scientific objectives & feasibility) + research expert target groups
     
-    ### Action
+    Action:
     
     - Open call for early adopter expert & user volunteers on Twitter & IG
     - Introduce project on WorkOnClimate & ask for early adopter expert volunteers
@@ -46,7 +48,8 @@
     - Based on working group experience, script the community management strategy for the first prototype (channels, timing etc. for collaboration & communication)
 
 
-* ## Milestone 3 [~6 months, by 04/2022]: First proof of concept prototype
+## Milestone 3 [~6 months, by 04/2022]: 
+First proof of concept prototype
     
     * Research reference projects esp. open ones for data collection, processing and visualisation
     * Establish workflow and framework for data management ([EUDAT](https://sp.eudat.eu/catalog/))
@@ -57,7 +60,8 @@
     * Visualise and publish collected data ([Galaxy](https://usegalaxy.org/))
   
   
-* ## Milestone 4 [~6 months]: Find sponsors
+## Milestone 4 [~6 months]: 
+Find sponsors
     
     * Research & list all possibilities for funds & awards
         - [https://empreses.barcelonactiva.cat/es_ES/web/es/tots-els-programes](https://empreses.barcelonactiva.cat/es_ES/web/es/tots-els-programes)
@@ -69,7 +73,8 @@
         - [Pressupostos Participatius](https://www.santperederibes.cat/ajuntament/participacio-ciutadana) (in Sant Pere de Ribes with open yard weekend idea) - Deadline: 07/2022
 
 
-* ## Milestone 5 [~2 months]: Launch Balconnect device
+## Milestone 5 [~2 months]: 
+Launch Balconnect device
     
     * Document device design & production process from 07/2020
     * Research reference devices esp. open source ones
@@ -79,9 +84,10 @@
     * Collaborate with community to test device prototype, document feedback, brainstorm on other device uses & design
 
 
-* ## Milestone 6 [2023]: Extended communication to reach wider (and international) audience for possible more collaboration & opportunities
+## Milestone 6 [2023]: 
+Extended communication to reach wider (and international) audience for possible more collaboration & opportunities
     
-    * Collaborate with personal role models & favourite media
+    * Collaborate with personal role models & favourite media e.g.
         - Dr. Niki Wallace
         - Marielle Anzelone
         - 'In Defense of Plants' podcast & blog
