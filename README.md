@@ -1,5 +1,5 @@
 # Balconnect
-##### [Versión castellana](https://github.com/adelsarvary/Balconnect/blob/main/README_ESP.md) (en desarrollo)
+##### [Versión castellana](https://github.com/adelsarvary/Balconnect/blob/main/CASTELLANO/README_ESP.md) (en desarrollo)
 
 
 ***A room to share with nature: a network of people & their outdoor spaces improving human-nature collaborations and biodiversity.***
@@ -63,7 +63,7 @@ Please feel free to get in touch
 
 ## **Find out more**
 
-* [The original Balconnect project site](https://adelsarvary.gitlab.io/adel.sarvary/balconnect) made as the final project presentation for the MDEF course, including Adel's Master's thesis
+* [The original Balconnect project site](https://adelsarvary.gitlab.io/adel.sarvary/balconnect) made as the final project presentation for the MDEF course, including a short [concept video](https://www.youtube.com/watch?v=i-nucCHKd80&feature=emb_title) and Adel's Master's thesis.
 * [Contributor’s guidelines](https://github.com/adelsarvary/Balconnect/blob/main/Contributors_Guidelines.md) - currently in development, so please get in touch with Adel for more details.
 * [Roadmap](https://github.com/adelsarvary/Balconnect/blob/main/Roadmap.md)
 * [Code of Conduct](https://github.com/adelsarvary/Balconnect/blob/main/Code_of_Conduct.md) - Please note that it’s very important to maintain a positive and supportive environment for everyone who wants to participate. When you join as a collaborator, you must follow the code of conduct in all interactions both on and offline.
