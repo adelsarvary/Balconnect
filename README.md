@@ -43,9 +43,9 @@ The founder of this project is me, [Adel Sarvary](https://adelsarvary.github.io/
 
 The birth & initial development of Balconnect took place during my 'Design for Emergent Futures' Master's course (MDEF), in 2020, under the caring wings of the wonderful teaching staff at the Institute for Advanced Architecture of Catalunya (IaaC) & at Elisava School of Design and Engineering in Barcelona, Spain.
 
-Balconnect has since been growing into an Open Science project, thanks to the amazing help of my Open Science mentor Emma Karoune, and the founders and community of Open Life Science.
+Balconnect has since been growing into an Open Science project, thanks to the amazing help of my mentor [Emma Karoune](https://github.com/EKaroune), and the founders and community of [Open Life Science](https://github.com/open-life-science).
 
-For further information about the growing list of people and communities I am greatly thankful for, please see 'Acknowledgements'.
+For further information about the growing list of people and communities I am greatly thankful for, please see [Acknowledgements](https://github.com/adelsarvary/Balconnect/blob/main/Acknowledgements.md).
 
 In case you are interested in hopping in the front seat with me, please do reach out!
 
@@ -53,15 +53,13 @@ In case you are interested in hopping in the front seat with me, please do reach
 
 As much as natural ecosystems need diversity of masses to function well, so is this project: collaborators and contributors of all kinds - the more, the merrier.
 
-If you think you can help in any ways, please check out the contributor's guidelines and the roadmap (see the 'Find out more' section of this document).
+If you think you can help in any ways, please check out the contributor's guidelines and the roadmap (see the [Find out more](#find-out-more) section of this document).
 
 ## **Get in touch!**
 
-Please feel free to get in touch by email or on Twitter.
-
-balconnect.barcelona@gmail.com
-
-[@balconnect](https://twitter.com/balconnect)
+Please feel free to get in touch 
+* by email: balconnect.barcelona@gmail.com 
+* or on Twitter: [@balconnect](https://twitter.com/balconnect)
 
 ## **Find out more**
 
@@ -70,13 +68,13 @@ balconnect.barcelona@gmail.com
 * [Roadmap](https://github.com/adelsarvary/Balconnect/blob/main/Roadmap.md)
 * [Code of Conduct](https://github.com/adelsarvary/Balconnect/blob/main/Code_of_Conduct.md) - Please note that it’s very important to maintain a positive and supportive environment for everyone who wants to participate. When you join as a collaborator, you must follow the code of conduct in all interactions both on and offline.
 
-## Thank you
+## Thank you!
 
-Thanks for taking the time to read this project page and please do get involved.
+Thanks for taking the time to read this project page. I would love you to get involved!
 
 ## **Glossary**
 
-Currently in development.
+A separate document currently in development.
 
 * **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects.
 * **Milestone**: an event or state marking a specific stage in development on the project.
