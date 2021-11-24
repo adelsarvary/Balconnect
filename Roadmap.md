@@ -1,7 +1,7 @@
 ![readme_img_milestones.png](https://github.com/adelsarvary/Balconnect/blob/main/images/readme_img_milestones.png)
 
-## Milestone 1 [~3 months]: 
-Create a documentation methodology & space to assist the continuous communication about Balconnect's mission and principles to anyone interested.
+## Milestone 1 [Short term]: 
+### Create a documentation methodology & space to assist the continuous communication about Balconnect's mission and principles to anyone interested.
     
 ### Topics:
     
@@ -25,8 +25,8 @@ Create a documentation methodology & space to assist the continuous communicatio
 7. Tweet / IG the most interesting facts & news from the above topics on a regular (weekly) basis.
 
 
-## Milestone 2 [~3 months]: 
-Establish a working group of early adopters - contributors and users    
+## Milestone 2 [Short term]: 
+### Establish a working group of early adopters - contributors and users    
     
 ### Preparation:
     
@@ -48,8 +48,8 @@ Establish a working group of early adopters - contributors and users
 * Based on working group experience, script the community management strategy for the first prototype (channels, timing etc. for collaboration & communication)
 
 
-## Milestone 3 [~6 months, by 04/2022]: 
-First proof of concept prototype
+## Milestone 3 [Medium term, by 04/2022]: 
+### First proof of concept prototype
     
 * Research reference projects esp. open ones for data collection, processing and visualisation
 * Establish workflow and framework for data management ([EUDAT](https://sp.eudat.eu/catalog/))
@@ -60,8 +60,8 @@ First proof of concept prototype
 * Visualise and publish collected data ([Galaxy](https://usegalaxy.org/))
   
   
-## Milestone 4 [~6 months]: 
-Find sponsors
+## Milestone 4 [Medium term]: 
+### Find sponsors
     
 * Research & list all possibilities for funds & awards
    * [https://empreses.barcelonactiva.cat/es_ES/web/es/tots-els-programes](https://empreses.barcelonactiva.cat/es_ES/web/es/tots-els-programes)
@@ -73,8 +73,8 @@ Find sponsors
    * [Pressupostos Participatius](https://www.santperederibes.cat/ajuntament/participacio-ciutadana) (in Sant Pere de Ribes with open yard weekend idea) - Deadline: 07/2022
 
 
-## Milestone 5 [~2 months]: 
-Launch Balconnect device
+## Milestone 5 [Medium term]: 
+### Launch Balconnect device
     
 * Document device design & production process from 07/2020
 * Research reference devices esp. open source ones
@@ -84,8 +84,8 @@ Launch Balconnect device
 * Collaborate with community to test device prototype, document feedback, brainstorm on other device uses & design
 
 
-## Milestone 6 [2023]: 
-Extended communication to reach wider (and international) audience for possible more collaboration & opportunities
+## Milestone 6 [Long term]: 
+### Extended communication to reach wider (and international) audience for possible more collaboration & opportunities
 
 * Collaborate with personal role models & favourite media e.g.
   * Dr. Niki Wallace, Marielle Anzelone
