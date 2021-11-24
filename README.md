@@ -1,5 +1,5 @@
 # Balconnect
-##### [Versión castellana](https://github.com/adelsarvary/Balconnect/blob/main/CASTELLANO/README_ESP.md) (en desarrollo)
+##### [Versión castellana](https://github.com/adelsarvary/Balconnect/blob/main/SPANISH/README_SPA.md) (en desarrollo)
 
 
 ***A room to share with nature: a network of people & their outdoor spaces improving human-nature collaborations and biodiversity.***
